@@ -76,7 +76,7 @@ a{
 .principal{
 	background-color: #C06C50;
 	height: 40px;
-	max-width: 60%;
+	max-width: auto;
 	margin: 0 auto;
 }
 
